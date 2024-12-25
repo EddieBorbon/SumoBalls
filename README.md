@@ -12,14 +12,6 @@ Create an exciting arcade-style Sumo battle game! The goal is to knock waves of 
 
 ---
 
-## 🧪 Lab 4: Basic Gameplay
-- Build gameplay mechanics:
-  - 🚶 Develop movement and collision detection.
-  - 📦 Create reusable prefabs for projectiles, pickups, and enemies.
-  - 🎲 Randomize object spawning with a spawn manager.
-  - 🎯 Achieve basic functionality for core mechanics.
-
----
 
 ## 🚀 Features Implemented
 1. **🌀 Player Movement:** Physics-based controls for realistic interaction.
@@ -35,11 +27,6 @@ Create an exciting arcade-style Sumo battle game! The goal is to knock waves of 
 - 🛡️ Add new power-ups for strategic gameplay.
 - 👫 Introduce multiplayer modes.
 - 🌍 Expand levels with diverse island designs.
-
----
-
-## 🎮 Play the Game
-Try the Sumo Battle prototype here: [👉 Play Now](<insert_link_here>) 🕹️
 
 ---
 
